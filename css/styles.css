@@ -41,9 +41,8 @@ font-family: "Roboto", sans-serif;
     color: #2e2f42;
 }
 
-.nav-link .link:hover,
-.nav-link .link:active,
-.nav-link .link:focus {
+.nav-link:hover,
+.nav-link:focus {
     color: #404bbf;
 }
 
